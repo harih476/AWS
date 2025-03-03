@@ -1,0 +1,9 @@
+Login to AWS Console.
+Go to EC2 Dashboard → Click Launch Instance.
+Set Instance Name.
+Choose Amazon Linux 2.
+Select t2.micro instance type.
+Create or select a Key Pair.
+Configure Security Group: Allow SSH , HTTP.
+Launch the instance.
+Copy the Public IP from EC2 Dashboard.
